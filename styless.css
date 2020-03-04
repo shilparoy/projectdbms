@@ -1,0 +1,44 @@
+body {
+  background-image: url("about bg.jpg");
+  background-repeat: no repeat;
+}
+
+h1 {
+ 
+ font-family: verdana;
+ color: blue;
+ text-align:center;
+ font-size: 40px;
+ 
+
+}
+
+img {
+  border-radius: 8px;
+  align: left;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+font-size:44px;
+}
+th, td {
+  padding: 5px;
+  text-align: center;
+
+ 
+}
+
+p {
+
+ font-family: comic sams ms;
+ color:  orange;
+ text-align:center;
+ font-size: 40px;
+
+p1 {
+  font-family: verdana;
+  font-size: 80px;
+  color: orange;
+  font-weight :50;
+}
